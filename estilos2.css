@@ -1,0 +1,9 @@
+body{
+    margin: 30px;
+    font-family:'Times New Roman', Times, serif;
+    background: rgb(255, 240, 218);
+}
+p{
+    font-style: italic;
+    margin-top: 20px;
+}
